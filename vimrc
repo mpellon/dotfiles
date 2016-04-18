@@ -1,6 +1,6 @@
 " Vim Configuration
 "
-" Copyright (c) 2015 Michael Pellon
+" Copyright (c) 2015 - 2016 Pluto and Bacon
 
 " Colors
 colorscheme badwolf    

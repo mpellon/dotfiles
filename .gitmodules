@@ -1,3 +1,0 @@
-[submodule "vim-plugins/jade"]
-	path = vim-plugins/jade
-	url = https://github.com/digitaltoad/vim-jade.git
